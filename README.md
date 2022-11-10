@@ -4,7 +4,7 @@ Created a Carousel/Slideshow with 6 different Laptop images. Ensuring the follow
 
 ## Criteria
 * The images are properly styled.
-* Directional icons and pagination are present
+* Directional icons and paginations are present
 - on the images including clickable below.
 * On clicking the icons, it shows the next/previous image. 
 - When the next icon on the last image is clicked, it shows 
