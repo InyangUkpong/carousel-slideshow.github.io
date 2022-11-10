@@ -12,5 +12,5 @@ Created a Carousel/Slideshow with 6 different Laptop images. Ensuring the follow
 * When the previous icon on the first image is clicked, 
 - it shows the last image.
 
-
+ - Live Link :: [Go Live](https://inyangukpong.github.io/carousel-slideshow.github.io/)
 ## Author: Inyang Queenie Ukpong ##
