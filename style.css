@@ -21,6 +21,18 @@
     width: 100%;
 }
 
+.swiper-button-next, .swiper-button-prev{
+    opacity: 0;
+  }
+  
+  .swiper-button-prev:hover {
+    opacity: 1;
+  }
+  
+  .swiper-button-next:hover {
+    opacity: 1;
+  }
+
 .swiper .swiper-button-prev, .swiper .swiper-button-next{
     color: #fff;
 }
